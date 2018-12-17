@@ -1,0 +1,13 @@
+server:
+  servlet:
+    contextPath: /simple-chat
+  port: 8080
+spring:
+  thymeleaf:
+    cache: false
+    mode: HTML
+  resources:
+    chain:
+      strategy.content:
+        enabled: true
+        paths: /**

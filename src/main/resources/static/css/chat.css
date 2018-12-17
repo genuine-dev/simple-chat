@@ -1,0 +1,10 @@
+#inputArea{
+    display:none;
+}
+#response p{
+    margin:0;
+    padding: 10px 0;
+}
+#response p:nth-child(even){
+    background-color:#F9F9F9
+}
