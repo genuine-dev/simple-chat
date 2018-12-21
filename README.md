@@ -11,3 +11,7 @@ gradle bootRun
 ```
 gradlew bootRun
 ```
+
+ブラウザで下記URLにアクセス
+
+http://localhost:8080/simple-chat
